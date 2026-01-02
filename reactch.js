@@ -17,7 +17,7 @@ export default async function handler(req, res) {
       {
         method: "GET",
         headers: {
-          "x-api-key": "d08ab503b161c0fc400041c7b2b955ae6b6e9dd08e654adbee321d0d59d45227",
+          "x-api-key": "040f2f333ec598e6b0baba7b0e083d03598201f8dcf5818a662112368541580a",
           "Accept": "application/json"
         }
       }
